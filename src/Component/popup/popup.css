@@ -1,0 +1,25 @@
+
+.popupoverlay{
+  position :fixed;
+  left: 30vw;
+  top: 49vh;
+  height: 40%;
+  width: 50%;
+  background: rgba(0, 0, 0, 0.8);
+  display: block;
+  justify-items: center;
+  align-items: center;
+  color: white;
+  z-index:1
+}
+h1{
+  color: magenta;
+  font-size: 1.8rem;
+  margin-left: 2rem;
+}
+p{
+ margin-left: 2rem;
+  font-size: 1rem;
+
+}
+
